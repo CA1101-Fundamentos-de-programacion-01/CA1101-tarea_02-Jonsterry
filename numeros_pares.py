@@ -1,4 +1,3 @@
-for i in ranger(1,20):
-  print(i)
-if(i=1+1)
-
+for i in ramger(1, 20):
+  if(if % 2 == 0):
+    print(i)

@@ -1,3 +1,3 @@
-for i in ramger(1, 20):
-  si ( i %  2  ==  0 ):
+for i in ranger(1, 20):
+  if ( i %  2  ==  0 ):
     print(i)
